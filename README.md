@@ -1,8 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=quantaosun&theme=highcontrast&show_icons=true&count_private=true)
-
-## 🚀 About Me
-
-I'm a full stack developer...
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=quantaosun&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
 
