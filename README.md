@@ -1,4 +1,11 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=quantaosun&theme=highcontrast&show_icons=true&count_private=true)
+
+## 🚀 About Me
+
+I'm a full stack developer...
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
+
 <!--
 **quantaosun/quantaosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
