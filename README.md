@@ -1,11 +1,5 @@
 ### Hi there 👋 A PhD student in Medicinal Chemistry, UNSW Sydney, interested in organic synthesis and molecular modelling.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=quantaosun&theme=highcontrast&show_icons=true&count_private=true)
-
-<p align="center">
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=quantaosun)
- />
-</p>
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=quantaosun)
 
 <!--
@@ -13,12 +7,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on UNSW, Sydney
+- 🌱 I’m currently learning Organic Synthesis and Computer Aided Drug Design
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about 
+- 📫 How to reach me: quantaosun@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
