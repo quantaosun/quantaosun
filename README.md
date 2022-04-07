@@ -1,6 +1,6 @@
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=quantaosun&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=quantaosun&show_icons=false&theme=tokyonight&title_color=6464c8&text_color=6464c8&bg_color=ffffff&hide_border=true" alt="quantaosun stats card" /></p>
+   
 <!--
 **quantaosun/quantaosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
