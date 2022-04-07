@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 A PhD student in Medicinal Chemistry, UNSW Sydney, interested in organic synthesis and molecular modelling.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=quantaosun&theme=highcontrast&show_icons=true&count_private=true)
 
 <!--
