@@ -3,5 +3,5 @@
    
 <--
 
-⚡ 😄  Fun fact: I know more than 10,000 Chinese charaters, to deal with them I use more right brain compared to native English speakers.
+⚡ 😄  Fun fact: I know more than 5,000 Chinese charaters, but for daily life purpose you just need some 200-300, to deal with them mandarin speakers use more right brain compared to native English speakers.
 -->
