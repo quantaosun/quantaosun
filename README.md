@@ -3,5 +3,5 @@
    
 <--
 
-⚡ 😄  Fun fact: I know more than 10,000 Chinese charaters, to deal with them I have to use more right brain compared to English speakers.
+⚡ 😄  Fun fact: I know more than 10,000 Chinese charaters, to deal with them I have to use more right brain compared to native English speakers.
 -->
