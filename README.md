@@ -7,4 +7,4 @@ Hello Visitor
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=quantaosun&show_icons=false&theme=tokyonight&title_color=6464c8&text_color=6464c8&bg_color=ffffff&hide_border=true" alt="quantaosun stats card" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantaosun&theme=dark&show_icons=true)
