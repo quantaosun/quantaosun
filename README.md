@@ -5,4 +5,7 @@
   Visitor count
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+<p>
+  ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+</p>
+
