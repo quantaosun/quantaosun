@@ -1,5 +1,5 @@
 
-Page view time since 2023
+Page view times since 2023
 
 ![Visitor Count](https://profile-counter.glitch.me/quantaosun/count.svg)
 
