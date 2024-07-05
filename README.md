@@ -1,6 +1,10 @@
+
 <p align="center">
-  <img width="728" alt="image" src="https://github.com/quantaosun/quantaosun/assets/75652473/f9943300-7729-49b6-a03c-fc9d3f7496b7">
+  <img width="300" alt="image" src="https://github.com/quantaosun/quantaosun/assets/75652473/b8aac633-a942-42a6-b755-df16eaaf5eb6">
 </p>
+
+
+
 
 
 <p align="center">
